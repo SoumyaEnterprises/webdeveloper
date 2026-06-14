@@ -67,15 +67,15 @@ export function Footer() {
             <ul className="mt-5 flex flex-col gap-3 text-sm text-ink-muted">
               <li className="flex items-center gap-2.5">
                 <Mail className="h-4 w-4 text-violet-soft" />
-                hello@soumyaenterprises.com
+                soumyaenterprise1982@gmail.com
               </li>
               <li className="flex items-center gap-2.5">
                 <Phone className="h-4 w-4 text-violet-soft" />
-                +91 90000 00000
+                +91 8383076558
               </li>
               <li className="flex items-center gap-2.5">
                 <MapPin className="h-4 w-4 text-violet-soft" />
-                Agra, Uttar Pradesh, India
+                ATS, Greater Noida, 201301, Uttar Pradesh, India
               </li>
             </ul>
           </div>

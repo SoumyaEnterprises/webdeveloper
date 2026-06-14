@@ -14,17 +14,17 @@ const details = [
   {
     icon: Mail,
     label: "Email",
-    value: "hello@soumyaenterprises.com",
+    value: "soumyaenterprise1982@gmail.com",
   },
   {
     icon: Phone,
     label: "Phone",
-    value: "+91 90000 00000",
+    value: "+91 8383076558",
   },
   {
     icon: MapPin,
     label: "Location",
-    value: "Agra, Uttar Pradesh, India",
+    value: "ATS, Greater Noida, 201301, Uttar Pradesh, India",
   },
   {
     icon: Clock,
